@@ -1,0 +1,2 @@
+# todos
+- at this moment, school computer do not support audio output, didnt create it yet.
